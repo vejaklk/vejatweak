@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.2.0",
-    "sha256":  "2D5D0E8A1C415A9EBF5F1DF3EC68EE7CF9BCF3C96E944386FA35D53A726E18B7",
+    "versione":  "1.2.1",
+    "sha256":  "4CE4BB0420F18A9EB4C922D6D9B633DA99E5377D7A4C72ACC17A762558949554",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Rete: 5 interruttori per la scheda Ethernet. Discord: overlay disattivabile. Risoluzione personalizzata su tutti i giochi. Pulizia file. Salute del PC.",
+    "note":  "Correzione: il controllo aggiornamenti non veniva ingannato dalla cache di GitHub",
     "data":  "2026-08-07",
-    "firma":  "7GCHkMzjb4EpuGj0kNInw0eFw9NOdwExGB6HyGf78pTnFgwQ3UHHjkwdmpKksQYUMqbqVVFfKq0svrblfqpsNg=="
+    "firma":  "OFTqTI0VUk7YVTr3TreePGB1mcqPcxYEoUCm6AnSvCJ7Nh2vUGSsb0Qk7ib2KNF7lW8ZVdjAthb71WK7yL5aZQ=="
 }

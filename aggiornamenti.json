@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.2.1",
-    "sha256":  "4CE4BB0420F18A9EB4C922D6D9B633DA99E5377D7A4C72ACC17A762558949554",
+    "versione":  "1.2.2",
+    "sha256":  "F6300E84CBBA012E9D53A544155BD1EC3698BD1A4EEEF156AAE0BBB556CDF8FA",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Correzione: il controllo aggiornamenti non veniva ingannato dalla cache di GitHub",
+    "note":  "Esportazione in .reg. Correzioni: attesa del riavvio della scheda di rete, e percorsi con barra doppia nei file .reg.",
     "data":  "2026-08-07",
-    "firma":  "OFTqTI0VUk7YVTr3TreePGB1mcqPcxYEoUCm6AnSvCJ7Nh2vUGSsb0Qk7ib2KNF7lW8ZVdjAthb71WK7yL5aZQ=="
+    "firma":  "tU6QXeupYyyjZ2/SjEbBuIfVQTkuSb/jx8+2Waz4mExFmMWUHICdZvBUQmlrQK5I7MihwQNZoieLfaDHAfCAWw=="
 }

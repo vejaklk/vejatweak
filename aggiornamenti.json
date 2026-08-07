@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.2.2",
-    "sha256":  "F6300E84CBBA012E9D53A544155BD1EC3698BD1A4EEEF156AAE0BBB556CDF8FA",
+    "versione":  "1.2.3",
+    "sha256":  "BDD805D8324EB2211799AF4BB7C7434493DBC953659B5965140F88EE64AAB290",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Esportazione in .reg. Correzioni: attesa del riavvio della scheda di rete, e percorsi con barra doppia nei file .reg.",
+    "note":  "Le impostazioni del pannello NVIDIA diventano interruttori: si accendono e si spengono dal tweak, senza aprire il pannello.",
     "data":  "2026-08-07",
-    "firma":  "tU6QXeupYyyjZ2/SjEbBuIfVQTkuSb/jx8+2Waz4mExFmMWUHICdZvBUQmlrQK5I7MihwQNZoieLfaDHAfCAWw=="
+    "firma":  "CxpXVjD41m/3SJfJm0TkdwK8OJxONNmcb+3bjVDJJ6zuAxQxNgblZybPNjlb4mk8bGaEJhwC2z1s/qAe0uDjNA=="
 }

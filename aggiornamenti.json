@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.2.3",
-    "sha256":  "BDD805D8324EB2211799AF4BB7C7434493DBC953659B5965140F88EE64AAB290",
+    "versione":  "1.3.0",
+    "sha256":  "1268D4516D44578CD647F099387294CF60F66F1C1F44D95CBA04EF2FDEDD837B",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Le impostazioni del pannello NVIDIA diventano interruttori: si accendono e si spengono dal tweak, senza aprire il pannello.",
-    "data":  "2026-08-07",
-    "firma":  "CxpXVjD41m/3SJfJm0TkdwK8OJxONNmcb+3bjVDJJ6zuAxQxNgblZybPNjlb4mk8bGaEJhwC2z1s/qAe0uDjNA=="
+    "note":  "Profili NVIDIA per singolo gioco (Fortnite dal file .nip, FiveM nuovo), movimento e strafe di FiveM, profilo memoria in base alla RAM, stuttering e micro-lag, pacchetti di rete in arrivo, programmi all\u0027avvio, setup .reg per sezioni, grafica piu\u0027 pulita.",
+    "data":  "2026-08-08",
+    "firma":  "DZKf9SvWiLVEUphEflXMPQPTzwMf18oOjHGkGtwsK/yHedYmv0CM7bLX7/XpwdHx6oHG9ARrL8IbjeZK2r3KDg=="
 }

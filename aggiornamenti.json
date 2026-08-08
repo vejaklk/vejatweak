@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.0",
-    "sha256":  "9A6E5DB75F057D4F51550EAAF36351A0DFA6F849B310D76B8C5E034E826FF738",
+    "sha256":  "6230410C67D613BFA80FD31C134C913A2454B4355EFA5319F559F50E7C1069EF",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Interfaccia rifatta: navigazione a colonna, guscio neutro con il rosso solo dove significa qualcosa. Piu\u0027 i profili NVIDIA per gioco, movimento e strafe di FiveM, profilo memoria in base alla RAM, stuttering e micro-lag, pacchetti di rete in arrivo, programmi all\u0027avvio e setup .reg per sezioni.",
+    "note":  "Piu\u0027 veloce: le letture NVIDIA passano da una sessione per voce a una sola (profili da 4,7 s a 0,8 s), e il lavoro dell\u0027interruttore parte dopo l\u0027animazione invece di bloccarla. Nuove animazioni: card che entrano a cascata, levetta con rimbalzo, passaggio del mouse sfumato, filo della sezione che cresce. Corretto un caso in cui la levetta mostrava uno stato diverso da quello vero del sistema.",
     "data":  "2026-08-08",
-    "firma":  "SephshGkBug5rQJr098RC79PRMl+h98DZooWRibyNHq0RYIz0n58Lat6WrtMShkIohK3Zx2DF/+Fr4HG8Tdozw=="
+    "firma":  "Gd5ANnHeshTJYUw6vxPRj1Iy959jNlDJbx6lz9FYtN1Y3+kOVrdeOqqynYt0aglgeVLXoAMwGZAa+eQwtNHUeQ=="
 }

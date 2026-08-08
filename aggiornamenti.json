@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.1",
-    "sha256":  "00473A72D6553767480F11131BE6CF0D15C6FA67D349DB5C6634220EB0E97D5E",
+    "sha256":  "231637ECBC11B3E2364F77C52EAACF2318E2B893CF4411911216E3484EF12DB8",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Il programma ora controlla da solo se esiste una versione nuova quando lo apri, e lo dice con un pulsante in alto: prima bisognava andarselo a cercare. Non scarica e non installa niente da solo, resta a te decidere.",
+    "note":  "All\u0027apertura VejaTweak controlla da solo se esiste una versione nuova e te lo dice subito, in cima alla finestra, con il pulsante \"Installa ora\" li\u0027 accanto: prima bisognava andarselo a cercare in Diagnosi. Non scarica e non installa niente da solo. Dopo l\u0027installazione si rioffre di riavviarsi.",
     "data":  "2026-08-08",
-    "firma":  "LawUZr/igMk9IjMIPvcDAPzuBDdQ6ZBXfrAeOFSXshad51zW4yL46p8JlToT2GSYcfbtt6Emlk37shmb6Z0elA=="
+    "firma":  "7BFCSj1lL5U9E0ip7Atmho98NpNfjhbyv+aY1coZru076C6wyzxtujO4MM0xxQl2O7VH9fxFQxvvTzAji6DU0Q=="
 }

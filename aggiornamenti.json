@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.3.0",
-    "sha256":  "4B1DCC1E939F637A401AD8298ED871C7202992E1F84AD7DB8DBE61A90D9B4EA3",
+    "versione":  "1.3.1",
+    "sha256":  "00473A72D6553767480F11131BE6CF0D15C6FA67D349DB5C6634220EB0E97D5E",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Ora puoi caricare un file .nip qualsiasi: VejaTweak lo legge e lo scrive nel driver da solo, senza NVIDIA Profile Inspector, e \"Annulla l\u0027ultimo\" rimette ogni valore com\u0027era. Piu\u0027 veloce: le letture NVIDIA passano da una sessione per voce a una sola. Nuove animazioni: card a cascata, levetta con rimbalzo, passaggio del mouse sfumato.",
+    "note":  "Il programma ora controlla da solo se esiste una versione nuova quando lo apri, e lo dice con un pulsante in alto: prima bisognava andarselo a cercare. Non scarica e non installa niente da solo, resta a te decidere.",
     "data":  "2026-08-08",
-    "firma":  "h+NRbohQUvIfU67+l96MQ4NjCcVKpEqoPsBobKMRE1qTQF4C8fM//P2i2tGvAbLZFdCR5Fx+Yo6Qu/PtxZzldg=="
+    "firma":  "LawUZr/igMk9IjMIPvcDAPzuBDdQ6ZBXfrAeOFSXshad51zW4yL46p8JlToT2GSYcfbtt6Emlk37shmb6Z0elA=="
 }

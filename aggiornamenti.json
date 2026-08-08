@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.0",
-    "sha256":  "6230410C67D613BFA80FD31C134C913A2454B4355EFA5319F559F50E7C1069EF",
+    "sha256":  "4B1DCC1E939F637A401AD8298ED871C7202992E1F84AD7DB8DBE61A90D9B4EA3",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Piu\u0027 veloce: le letture NVIDIA passano da una sessione per voce a una sola (profili da 4,7 s a 0,8 s), e il lavoro dell\u0027interruttore parte dopo l\u0027animazione invece di bloccarla. Nuove animazioni: card che entrano a cascata, levetta con rimbalzo, passaggio del mouse sfumato, filo della sezione che cresce. Corretto un caso in cui la levetta mostrava uno stato diverso da quello vero del sistema.",
+    "note":  "Ora puoi caricare un file .nip qualsiasi: VejaTweak lo legge e lo scrive nel driver da solo, senza NVIDIA Profile Inspector, e \"Annulla l\u0027ultimo\" rimette ogni valore com\u0027era. Piu\u0027 veloce: le letture NVIDIA passano da una sessione per voce a una sola. Nuove animazioni: card a cascata, levetta con rimbalzo, passaggio del mouse sfumato.",
     "data":  "2026-08-08",
-    "firma":  "Gd5ANnHeshTJYUw6vxPRj1Iy959jNlDJbx6lz9FYtN1Y3+kOVrdeOqqynYt0aglgeVLXoAMwGZAa+eQwtNHUeQ=="
+    "firma":  "h+NRbohQUvIfU67+l96MQ4NjCcVKpEqoPsBobKMRE1qTQF4C8fM//P2i2tGvAbLZFdCR5Fx+Yo6Qu/PtxZzldg=="
 }

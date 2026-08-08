@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.0",
-    "sha256":  "FC0146F63E472E3462E3D935FDAB6ABC51E1DB5CCB96D79B7EE567B771F9136E",
+    "sha256":  "E63C8D3B18DA5AB8EE9DD262BDE6A082C678601E446321C82213737B1A196189",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Profili NVIDIA per singolo gioco (Fortnite dal file .nip, FiveM nuovo), movimento e strafe di FiveM, profilo memoria in base alla RAM, stuttering e micro-lag, pacchetti di rete in arrivo, programmi all\u0027avvio, setup .reg per sezioni, grafica piu\u0027 pulita.",
+    "note":  "Profili NVIDIA per singolo gioco (Fortnite dal file .nip, FiveM nuovo), movimento e strafe di FiveM, profilo memoria in base alla RAM, stuttering e micro-lag, pacchetti di rete in arrivo, programmi all\u0027avvio, setup .reg per sezioni, e una grafica rifatta: interruttori a pillola, barra di scorrimento ed espansori disegnati, tavolozza piu\u0027 profonda.",
     "data":  "2026-08-08",
-    "firma":  "EthnqahIoqp4S0jR8m7ow+HdLgaA5XYObNYn3DZarTE5aSgHkAFbngKKYih7hLdS7hhNU1oXE9lsOIYjYGPSlg=="
+    "firma":  "F97e4L4c7iH1pb1ZI1JHJRGgufWqih5OJqMyjqNqrRru/7kK4Iua+xiarAyLsK1qlpoZlAn1VaVuwxu0TkPBig=="
 }

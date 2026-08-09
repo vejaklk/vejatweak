@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.3.2",
-    "sha256":  "FCB476575E7879194C309288CF7D3E02C19E3CD32DCBFE89CCD9B2D199031F22",
+    "versione":  "1.3.3",
+    "sha256":  "E94DBA6D48B2F4BDC58D125D5C290EF9C879C9F8C9C7AA5A59054E38DEA43A2F",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Correzione importante. Il controllo aggiornamenti diceva \"Sei gia aggiornato (versione )\" con le parentesi vuote e non proponeva mai niente: la versione installata non arrivava alla funzione di confronto, e quel confronto in caso di dubbio rispondeva \"sono uguali\". Ora la versione viene passata in modo che non si possa perdere, viene riletta dal file se manca, e nel dubbio l aggiornamento viene proposto invece che nascosto. Piu il nuovo interruttore per il risparmio energia su mouse e tastiera.",
+    "note":  "Aggiunto un collaudo che preme davvero il pulsante \"Controlla\" dentro la finestra, invece di limitarsi a chiamare la funzione: il difetto che bloccava gli aggiornamenti di tutti si vedeva solo passando dal gestore di evento, ed e per questo che nessun controllo l aveva mai preso.",
     "data":  "2026-08-10",
-    "firma":  "oVzR89FXHBKaMwiBF1gdYqi8e2dCebGllr15MHFxyvA6o0Z1aVnqQbUHDZv3HeH78dbLkMv33upUOea/yW87dA=="
+    "firma":  "F2rJMOKwBCWmj4MdK49y9GtI2MPA8pxSgZg9bibkgi5dd5GrL+oScCxza0gF+WSqEZwtaQxjEq9VgeGU6pgFPg=="
 }

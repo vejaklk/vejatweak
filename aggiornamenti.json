@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.1",
-    "sha256":  "334B5E993D05D2A81E8F63955E498110A2B7DBC41D0BE871D093C76F437D48B1",
+    "sha256":  "F8284CD63AE8B4672633E4B06B9CFFF5BF4A12F63D42744C26C084541709AFFB",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Cinque voci nuove, tutte reversibili e nessuna che tocchi frequenze o voltaggi. La piu\u0027 pesante: l\u0027integrita\u0027 della memoria di Windows 11 (VBS), che sui PC di fabbrica e\u0027 accesa e vale il 5-15% di fotogrammi - con scritto chiaro cosa si perde in sicurezza. Poi il menu del tasto destro classico (istantaneo al posto di quello di Windows 11), lo schermo intero vero sui giochi rilevati, i widget della barra spenti e il gioco che puo\u0027 prendere il primo piano subito. Preset FiveM piu\u0027 completo e nuovo preset Spinto.",
+    "note":  "Risolto il caso della stretched personalizzata di FiveM che finiva in finestra. Due cause trovate: il rilevamento non trovava gli eseguibili che disegnano davvero il gioco (stanno in una sottocartella), quindi lo schermo intero vero finiva sul lanciatore; e la frequenza non veniva allineata alla risoluzione. Adesso il tweak scrive anche il tipo di schermo dentro fivem.cfg e ti avvisa subito se la risoluzione che hai scritto non esiste fra le modalita\u0027 della scheda video, che e\u0027 il motivo per cui non puo\u0027 andare a schermo intero esclusivo.",
     "data":  "2026-08-09",
-    "firma":  "uZMuCIwlQGlFsfl2DlmZAXbAd35VKajuMbBTp7QYWjkrwSP/kw0piPrmBq8QfvFxybl2zvJ9ItxdQK68S6VuUw=="
+    "firma":  "GrHY8MOO2igS1dPXRU8CABP7uAk8Xp1Oc/YqB1/URSNW6YBt1cYZlloPMh1Elz0ymIgj7Jc/WHImTREncm/iPA=="
 }

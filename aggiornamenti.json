@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.3.3",
-    "sha256":  "84D0BA0D2A1EAB06BF072E8AEB7BB9F89104A77D132EA97CF4EDF89C2A1E3369",
+    "versione":  "1.4.0",
+    "sha256":  "B7C178C0AB394251F6807F01AE3D91C51415CC9FB043296A8BCD510F9A00B1AA",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "L installer viene pubblicato insieme al resto, cosi c e un indirizzo di download fisso da dare ai clienti invece di allegare il file a mano.",
+    "note":  "Interfaccia rifatta: elenchi su due colonne, titolo centrato, ricerca stretta sotto il titolo, e tavolozza nero-grigio-rosso con il rosso solo dove significa qualcosa. Sotto i 1180 pixel torna a una colonna sola, perche\u0027 due colonne strette si leggono peggio di una.",
     "data":  "2026-08-10",
-    "firma":  "ZJkMoeFDVD1iFEiykr1DCjW1jDofQJt/0J+q0NZ13uX9L6IRW8NRfrf+zMy3zdBxxZL3kuhB48PC9NpS8LYP3w=="
+    "firma":  "L39a1BuWLkICy1v/u8DYLCcxrqZyYkNUSArzo3Ca/pE4sasflL/VX55KRzGop6j/SiSRnS3+KR339/VgvyRA+A=="
 }

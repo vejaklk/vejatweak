@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.1",
-    "sha256":  "D7EAE5C3730B77CC2E13473D94CDC8054C35BA23950B98A3686F8F3742252759",
+    "sha256":  "7C0537700C970709892C9CBD99CCFE4BA0F24CB59EC6C086533287CCF5CEAC9E",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Importante per chi gioca di ruolo. Il profilo Competitive disattivava DiagTrack e faceva fallire il controllo che lo staff dei server RP esegue sui servizi: adesso nessun profilo tocca nessuno di quei servizi, e c\u0027e\u0027 un controllo automatico che lo impedisce anche in futuro. PcaSvc e\u0027 uscito dai \"servizi superflui\", SuperFetch e\u0027 uscito dal profilo Maximum e porta un\u0027avvertenza. Nuova sezione \"Controllo staff\" che esegue la verifica e rimette in esecuzione quello che trova fermo.",
+    "note":  "Adesso il programma controlla i servizi anche all\u0027apertura: se ne trova di fermi fra quelli che lo staff dei server di ruolo verifica, lo dice subito in cima alla finestra con il pulsante per rimetterli in esecuzione. Serve a chi aveva applicato un profilo con una versione vecchia: aggiornare cambia il catalogo, non lo stato del PC, e senza questo avviso continuerebbe a farsi bocciare senza sapere perche\u0027.",
     "data":  "2026-08-10",
-    "firma":  "EHfcfK2p/ubm+ibDCkyXVXDuFDqWbADSbkJurh5JYJAK2rNb5JEHp9VkfWlSReaTkPec+yAbC4+9u0hZJ1H51Q=="
+    "firma":  "DOn4/7vHXX/ymO+gm5iCwuMMeU0lsIBFwIWvRu6Gz0N3tvMoT7u09hbrEpCbYs2KDsDmnahGJBs//B0p/sH7mQ=="
 }

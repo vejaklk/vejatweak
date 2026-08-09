@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.3",
-    "sha256":  "E94DBA6D48B2F4BDC58D125D5C290EF9C879C9F8C9C7AA5A59054E38DEA43A2F",
+    "sha256":  "84D0BA0D2A1EAB06BF072E8AEB7BB9F89104A77D132EA97CF4EDF89C2A1E3369",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Aggiunto un collaudo che preme davvero il pulsante \"Controlla\" dentro la finestra, invece di limitarsi a chiamare la funzione: il difetto che bloccava gli aggiornamenti di tutti si vedeva solo passando dal gestore di evento, ed e per questo che nessun controllo l aveva mai preso.",
+    "note":  "L installer viene pubblicato insieme al resto, cosi c e un indirizzo di download fisso da dare ai clienti invece di allegare il file a mano.",
     "data":  "2026-08-10",
-    "firma":  "F2rJMOKwBCWmj4MdK49y9GtI2MPA8pxSgZg9bibkgi5dd5GrL+oScCxza0gF+WSqEZwtaQxjEq9VgeGU6pgFPg=="
+    "firma":  "ZJkMoeFDVD1iFEiykr1DCjW1jDofQJt/0J+q0NZ13uX9L6IRW8NRfrf+zMy3zdBxxZL3kuhB48PC9NpS8LYP3w=="
 }

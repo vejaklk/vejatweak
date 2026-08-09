@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.3.1",
-    "sha256":  "7C0537700C970709892C9CBD99CCFE4BA0F24CB59EC6C086533287CCF5CEAC9E",
+    "sha256":  "30A225AA28A9AA2CE2F4B8C53F8D0D6E327142F9286447AD77B44314C0B3C47E",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Adesso il programma controlla i servizi anche all\u0027apertura: se ne trova di fermi fra quelli che lo staff dei server di ruolo verifica, lo dice subito in cima alla finestra con il pulsante per rimetterli in esecuzione. Serve a chi aveva applicato un profilo con una versione vecchia: aggiornare cambia il catalogo, non lo stato del PC, e senza questo avviso continuerebbe a farsi bocciare senza sapere perche\u0027.",
+    "note":  "Mouse e tastiera: Windows poteva metterli in basso consumo dopo qualche secondo di pausa, e il primo movimento serviva a risvegliarli. Ora si disattiva con un interruttore, su tutti i dispositivi di input collegati, ed e\u0027 entrato nei profili. E\u0027 la stessa casella di Gestione dispositivi \"Consenti al computer di spegnere questo dispositivo\".",
     "data":  "2026-08-10",
-    "firma":  "DOn4/7vHXX/ymO+gm5iCwuMMeU0lsIBFwIWvRu6Gz0N3tvMoT7u09hbrEpCbYs2KDsDmnahGJBs//B0p/sH7mQ=="
+    "firma":  "HhYGhq07f+blpwesMhfkbSWvY6mL7QdrqbpGCRAafxfrA8ROiYdBafRQ9DStknF2oMHEmQk4nmbNYAJuoyhp2Q=="
 }

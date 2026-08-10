@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.4.1",
-    "sha256":  "92A4428C811FDB9513345A2D8AEF424F89C96C23D1412724179BB6FF9C650C4D",
+    "versione":  "1.4.2",
+    "sha256":  "C7BD607C20D2742E1EC72D692A6C898E6DB8739BC9D04B561C142DDD301DC5D6",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Grafica: piani piu chiari e distinti fra loro, ombre sotto le card e bordo alto luminoso per dare profondita, fascia rossa sfumata dietro il titolo. Il marchio ora si vede - era una V rossa dentro un riquadro rosso - e il nome in alto e in grassetto pieno.",
+    "note":  "Fascia in testa in grafite: quasi neutra, cosi il rosso resta l unica cosa colorata della finestra e le spunte accese si vedono da lontano.",
     "data":  "2026-08-10",
-    "firma":  "fdVxz6tjU2N2H6D56cfDArfZwjQ6BjjaCvhWBixlQoYx7gZ57JU2Yk/VFX0V/CN88SHmGmYvq7siFMSo7nu2dQ=="
+    "firma":  "F4O1ar5QQItLBH86G3tLEB7TwoKyOvJnQFueMbiqwA71falaLXk/9cBIv+r/7k9KRx7nuMk7tr0z5bPaqqd0wA=="
 }

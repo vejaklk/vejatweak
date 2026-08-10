@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.4.0",
-    "sha256":  "B7C178C0AB394251F6807F01AE3D91C51415CC9FB043296A8BCD510F9A00B1AA",
+    "versione":  "1.4.1",
+    "sha256":  "92A4428C811FDB9513345A2D8AEF424F89C96C23D1412724179BB6FF9C650C4D",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Interfaccia rifatta: elenchi su due colonne, titolo centrato, ricerca stretta sotto il titolo, e tavolozza nero-grigio-rosso con il rosso solo dove significa qualcosa. Sotto i 1180 pixel torna a una colonna sola, perche\u0027 due colonne strette si leggono peggio di una.",
+    "note":  "Grafica: piani piu chiari e distinti fra loro, ombre sotto le card e bordo alto luminoso per dare profondita, fascia rossa sfumata dietro il titolo. Il marchio ora si vede - era una V rossa dentro un riquadro rosso - e il nome in alto e in grassetto pieno.",
     "data":  "2026-08-10",
-    "firma":  "L39a1BuWLkICy1v/u8DYLCcxrqZyYkNUSArzo3Ca/pE4sasflL/VX55KRzGop6j/SiSRnS3+KR339/VgvyRA+A=="
+    "firma":  "fdVxz6tjU2N2H6D56cfDArfZwjQ6BjjaCvhWBixlQoYx7gZ57JU2Yk/VFX0V/CN88SHmGmYvq7siFMSo7nu2dQ=="
 }

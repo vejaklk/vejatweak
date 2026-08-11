@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.5.0",
-    "sha256":  "C68377A4E26B429F0529AA9DC387A9CB2BB8F1A433058A1E5949B8855836BFA9",
+    "versione":  "1.5.1",
+    "sha256":  "6898617DF9EF3F443D7907D15160C662618F72CA40419497ABD87A6D5304471C",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Ventole della scheda video nella sezione NVIDIA: giri, percentuale e intervallo letti dal driver, piu tre preset Base Competitive Maximum dove la scheda lo permette. Il canale vecchio delle guide risponde \"non supportato\" sulle schede recenti: qui si usa quello nuovo. I preset compaiono solo se il driver accetta davvero il comando, verificato con una prova innocua. Il voltaggio non viene toccato: le ventole non rovinano niente, la tensione del core si.",
-    "data":  "2026-08-10",
-    "firma":  "KSbTUKMb1ZBMyjMd0iz9nQiW8QJ76jfzgZmexzWI9UTg2Mr2q0BXeG4g1YArD7NZJhZpop7zsgRnAAlI9rf61A=="
+    "note":  "Cambio sezione molto piu rapido: la pagina di apertura passa da 1,5 secondi a 0,2",
+    "data":  "2026-08-11",
+    "firma":  "23bhTilmUaqhBFgO05BnwDUsYz0AueWNr346PuzCsWySUo52+4q+NizRIYwZke0C+Vpgzqa99Be4Ncm+Vuejbw=="
 }

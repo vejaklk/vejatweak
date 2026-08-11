@@ -1,8 +1,8 @@
 ﻿{
     "versione":  "1.5.2",
-    "sha256":  "0484E2F23E72DA58C04F50D4B7908562DEE22802985C17DB8809CA975DE9E43B",
+    "sha256":  "1A22EFDF57C77BF70E4DD587846CFFDC07297A68524D6F788C9A394751576D35",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Si apre in 1,6 secondi invece di 7, e il cambio sezione e circa tre volte piu rapido",
+    "note":  "Si apre in 1,6 secondi invece di 7, cambio sezione tre volte piu rapido, e nella barra delle applicazioni ora si vede il logo VejaTweak",
     "data":  "2026-08-11",
-    "firma":  "r1fLW6O+XhxFjF9J1Nn2YCLR2MprFxhX6X7qlPMLBl9xyo3+pWFk31rjzy+bOTScRZuCC65BVXSbPTDjibxQNw=="
+    "firma":  "lWLOQoGCTDjk37lafsTYwyhdZJFe7Ya/IQMNP260igRAe2Faz34iiHm9gZ7a7xqXi9RA4eKP61MGtPprxrHUIg=="
 }

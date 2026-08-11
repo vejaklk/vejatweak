@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.5.1",
-    "sha256":  "6898617DF9EF3F443D7907D15160C662618F72CA40419497ABD87A6D5304471C",
+    "versione":  "1.5.2",
+    "sha256":  "0484E2F23E72DA58C04F50D4B7908562DEE22802985C17DB8809CA975DE9E43B",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Cambio sezione molto piu rapido: la pagina di apertura passa da 1,5 secondi a 0,2",
+    "note":  "Si apre in 1,6 secondi invece di 7, e il cambio sezione e circa tre volte piu rapido",
     "data":  "2026-08-11",
-    "firma":  "23bhTilmUaqhBFgO05BnwDUsYz0AueWNr346PuzCsWySUo52+4q+NizRIYwZke0C+Vpgzqa99Be4Ncm+Vuejbw=="
+    "firma":  "r1fLW6O+XhxFjF9J1Nn2YCLR2MprFxhX6X7qlPMLBl9xyo3+pWFk31rjzy+bOTScRZuCC65BVXSbPTDjibxQNw=="
 }

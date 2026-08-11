@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.5.2",
-    "sha256":  "1A22EFDF57C77BF70E4DD587846CFFDC07297A68524D6F788C9A394751576D35",
+    "versione":  "1.6.0",
+    "sha256":  "D61AE21C2229AF036B90D2D41BFB3F2CCAD09DBD7EDCC5E02D247A9593B7F55F",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Si apre in 1,6 secondi invece di 7, cambio sezione tre volte piu rapido, e nella barra delle applicazioni ora si vede il logo VejaTweak",
+    "note":  "Nuova sezione Controller (driver dei pad, porte USB, tasto Xbox), MSI sulla scheda audio contro i micro-scatti, e svuotamento della memoria in standby",
     "data":  "2026-08-11",
-    "firma":  "lWLOQoGCTDjk37lafsTYwyhdZJFe7Ya/IQMNP260igRAe2Faz34iiHm9gZ7a7xqXi9RA4eKP61MGtPprxrHUIg=="
+    "firma":  "4iSjpmcz446YFQKBjU7ZVy+b2NRthqqVwP9/uFoeJ/tHi/s/4D68YQektuXimLIOO1SfKmeGKeUX4pmYXXHfzw=="
 }

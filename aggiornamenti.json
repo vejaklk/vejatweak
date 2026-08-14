@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.6.4",
-    "sha256":  "D0E9776B56A95097589B33814620DF78CF1F549E907E6E554F0702B2A896C0D0",
+    "versione":  "1.6.5",
+    "sha256":  "44591196339FA792D735C4AE88156A86C675BFD7F9A44838ED35BB269AA83202",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Avvio quasi dimezzato: 4,8 secondi invece di 9,8. Tolti sei caricamenti di moduli Windows che costavano un secondo l uno per una lettura sola",
+    "note":  "IMPORTANTE: corretto il file di paging che con 16 e 64 GB non poteva crescere e faceva crashare i giochi quando la memoria finiva",
     "data":  "2026-08-14",
-    "firma":  "TZzSsN/uYNNTgU7Zmk1oB1+M+6LmhIFOfzVwk4KoVGAYb51wQ9O1xpZBZesibOezdQhaetqGCX+IuBOmTi9Yvg=="
+    "firma":  "VE2Zc1Ibq5bt7qX+uS2lPRlWFvIVMNQhv01CkE30DwyEdkWNk9Vd92+awLhcwZl0YSstDLv+CS4hLGE5xrVbfA=="
 }

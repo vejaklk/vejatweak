@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.6.2",
-    "sha256":  "90DBACCC69C4B3C24E762AAF540A420AA2DDA559F84CB9A09BF8AD1FCA251BFC",
+    "versione":  "1.6.3",
+    "sha256":  "7A2EA129D674D0A510C6137AB9EAE510E33DC4ECBDBB476E52054617EE72B9EF",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Risoluzione dei giochi: ora si propongono solo quelle che lo schermo ha davvero, e VejaTweak ripara il file di Fortnite quando resta a meta",
+    "note":  "FiveM: il preset ora dichiara le impostazioni come manuali, se no il gioco rifaceva la rilevazione e il preset non serviva a niente. Piu diagnosi del file e ripristino in evidenza",
     "data":  "2026-08-14",
-    "firma":  "p2m5VHSDuUp0Ax47EZ9Q10mP4AZaQvB/WF40LcjZkLuROIm7u58QmaC7KpgzanV8oFdibPw6t85ncl6gjN79nA=="
+    "firma":  "uTEhehNOddYzWrBOUYXR2nusp92fLaDUynruZG72NEIARO0LaJAWFXc/6ig2wPhsJiyHFrptZChUtXkMejrTvA=="
 }

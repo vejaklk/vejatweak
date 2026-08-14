@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.6.1",
-    "sha256":  "32714462734EEDA178E0A4806366A8100DC8EFF37D9D405C00ECC029C862CB42",
+    "versione":  "1.6.2",
+    "sha256":  "90DBACCC69C4B3C24E762AAF540A420AA2DDA559F84CB9A09BF8AD1FCA251BFC",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Cambio sezione fluido: la sezione piu lenta passa da 1,9 secondi a 0,3, e il programma si prepara da solo nei primi secondi",
-    "data":  "2026-08-11",
-    "firma":  "ioOhJs7pC6632aVKvMreS2YfKj2rsCYfMP6Fgr6bVItlpsQzxGhU/QZFqCjVfKqUa82kjkjvCyoN3l0QQlEo/g=="
+    "note":  "Risoluzione dei giochi: ora si propongono solo quelle che lo schermo ha davvero, e VejaTweak ripara il file di Fortnite quando resta a meta",
+    "data":  "2026-08-14",
+    "firma":  "p2m5VHSDuUp0Ax47EZ9Q10mP4AZaQvB/WF40LcjZkLuROIm7u58QmaC7KpgzanV8oFdibPw6t85ncl6gjN79nA=="
 }

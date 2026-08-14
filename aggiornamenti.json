@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.6.5",
-    "sha256":  "44591196339FA792D735C4AE88156A86C675BFD7F9A44838ED35BB269AA83202",
+    "versione":  "1.6.6",
+    "sha256":  "A0AD991EF4CB6BE576BF25FD2DB68305918D55A975E040113E4A65877429C886",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "IMPORTANTE: corretto il file di paging che con 16 e 64 GB non poteva crescere e faceva crashare i giochi quando la memoria finiva",
-    "data":  "2026-08-14",
-    "firma":  "VE2Zc1Ibq5bt7qX+uS2lPRlWFvIVMNQhv01CkE30DwyEdkWNk9Vd92+awLhcwZl0YSstDLv+CS4hLGE5xrVbfA=="
+    "note":  "Corretto il file di paging che non poteva crescere e faceva crashare i giochi, e i widget della barra che risultavano non applicati anche quando erano gia spenti",
+    "data":  "2026-08-15",
+    "firma":  "iIkwmuiYzk0Yj5urmLPLYJXW4J88CnrZpbfcL50cJkGmP7qHtm4Qr4+Q+SFmfld/4hb+UH76LB7hZzGgMKu/Nw=="
 }

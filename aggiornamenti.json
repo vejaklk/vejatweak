@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.6.6",
-    "sha256":  "A0AD991EF4CB6BE576BF25FD2DB68305918D55A975E040113E4A65877429C886",
+    "versione":  "1.6.7",
+    "sha256":  "888D8134934A41A5D4700C98FABD8809AADDEF4534CE57EA699D03425FAC49D1",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "Corretto il file di paging che non poteva crescere e faceva crashare i giochi, e i widget della barra che risultavano non applicati anche quando erano gia spenti",
+    "note":  "Si apre molto piu in fretta, soprattutto sui PC lenti: la prima pagina non aspetta piu di aver contato tutto, e le librerie interne si compilano in una volta sola",
     "data":  "2026-08-15",
-    "firma":  "iIkwmuiYzk0Yj5urmLPLYJXW4J88CnrZpbfcL50cJkGmP7qHtm4Qr4+Q+SFmfld/4hb+UH76LB7hZzGgMKu/Nw=="
+    "firma":  "0n1lDIirL1UyCJn0nkryTyFFcXSnaWZDch0hqNXBdLgTPDZasI1DoL3Jb4Yrf/lQ/CtaNeLnz/7QYxbWNZNR8Q=="
 }

@@ -1,8 +1,8 @@
 ﻿{
-    "versione":  "1.6.3",
-    "sha256":  "7A2EA129D674D0A510C6137AB9EAE510E33DC4ECBDBB476E52054617EE72B9EF",
+    "versione":  "1.6.4",
+    "sha256":  "D0E9776B56A95097589B33814620DF78CF1F549E907E6E554F0702B2A896C0D0",
     "pacchetto":  "https://raw.githubusercontent.com/vejaklk/vejatweak/main/VejaTweak.zip",
-    "note":  "FiveM: il preset ora dichiara le impostazioni come manuali, se no il gioco rifaceva la rilevazione e il preset non serviva a niente. Piu diagnosi del file e ripristino in evidenza",
+    "note":  "Avvio quasi dimezzato: 4,8 secondi invece di 9,8. Tolti sei caricamenti di moduli Windows che costavano un secondo l uno per una lettura sola",
     "data":  "2026-08-14",
-    "firma":  "uTEhehNOddYzWrBOUYXR2nusp92fLaDUynruZG72NEIARO0LaJAWFXc/6ig2wPhsJiyHFrptZChUtXkMejrTvA=="
+    "firma":  "TZzSsN/uYNNTgU7Zmk1oB1+M+6LmhIFOfzVwk4KoVGAYb51wQ9O1xpZBZesibOezdQhaetqGCX+IuBOmTi9Yvg=="
 }
